@@ -1,1 +1,1 @@
-//add new feature-heading
+//add new feature-headings
